@@ -9,7 +9,7 @@
 
 ---
 
-## ⚡ Overview
+##  Overview
 
 The **K8s Multi-Cluster Orchestrator** reconciles Custom Resource Definitions (`GlobalDeployment`, `ClusterGroup`) across a mesh of hybrid and multi-cloud Kubernetes clusters (EKS, GKE, AKS, On-Premises).
 
@@ -21,7 +21,7 @@ The **K8s Multi-Cluster Orchestrator** reconciles Custom Resource Definitions (`
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 ├── cmd/
@@ -43,7 +43,7 @@ The **K8s Multi-Cluster Orchestrator** reconciles Custom Resource Definitions (`
 
 ---
 
-## 🚀 Development & Testing
+##  Development & Testing
 
 ```bash
 # Install CRDs into current Kubernetes cluster
@@ -55,5 +55,5 @@ make run
 
 ---
 
-## 📜 License
+##  License
 MIT License - Copyright (c) 2025-2026 Rennan Simões.
